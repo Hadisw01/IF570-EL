@@ -1,0 +1,6 @@
+Hadi Sasmita Wijaya
+00000034659
+
+2. Terdapat error dan terjadi crash ketika angka 1 atau 2 tidak diisi. Crash tersebut kemungkinan terjadi karena program tidak dapat mendeteksi input kosong atau tidak ada input dari user. Untuk menangani crash tersebut, perlu dipasang exception handling yang berguna untuk memberikan flexibilitas.
+
+3. Ketika melakukan debugging, app yang sedang dijalankan akan dihentikan sementara.
