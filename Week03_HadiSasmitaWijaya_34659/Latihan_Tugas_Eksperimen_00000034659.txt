@@ -1,0 +1,3 @@
+2. Lakukan pengujian terhadap app anda dengan scenario beberapa penambahan dan pemilihan beberapa item pada daftar kata di recyclerView. Beri catatan dan kesimpulan dari hasil pengujian app anda dan submit ke eLearning portal.
+
+Ketika aplikasi dijalankan, akan muncul kata-kata. Ketika kata-kata tersebut diklik, maka akan ada penambahan kata "pernah diklik". Hal tersebut terjadi karena adanya fungsi onClick() yang menampilkan dua kata tersebut.
