@@ -1,0 +1,4 @@
+Hadi Sasmita Wijaya
+00000034659
+
+2. Aplikasi yang dijalankan akan muncul gambar kuda biasa. Ketika diklik gambar tersebut, maka gambar akan bergerak berdasarkan gambar yang dimasukan.

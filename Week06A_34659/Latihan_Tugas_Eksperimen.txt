@@ -1,0 +1,4 @@
+Hadi Sasmita Wijaya
+00000034659
+
+2. Ketika aplikasi dijalankan, tampilan awal adalah layar putih biasa. Namun ketika diklik sekali, akan muncul lingkaran berwarna hijau dan membesar. Ketika lingkaran tersebut semakin besar, warna akan berubah perlahan-lahan.

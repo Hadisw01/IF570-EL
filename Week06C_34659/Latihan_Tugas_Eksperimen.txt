@@ -1,0 +1,5 @@
+Hadi Sasmita Wijaya
+00000034659
+
+Tampilan awal akan muncul dua buah tombol dengan tulisan "HALO SPRING" dan "HALO FLING". Ketika tombol "HALO SPRING" ditekan/diklik makan tombol tersebut akan melakukan animasi berupa turun kebawah dan kembali lagi ke tempat semula.
+Ketika tombol "HALO FLING" ditekan, maka animasi berputar atas-bawah akan dijalankan.
