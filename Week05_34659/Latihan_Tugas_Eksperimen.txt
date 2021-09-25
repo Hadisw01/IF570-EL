@@ -1,0 +1,4 @@
+Hadi Sasmita Wijaya
+00000034659
+
+Ketika aplikasi dijalankan canvas utama akan berwarna putih terlebih dahulu dan warna awal adalah hitam, ketika diklik dan drag maka sudah bisa menggambar atau menulis sesuatu. Ketika warna merah dibuat full maka warna utama akan berubah berdasarkan warna yang kita tentukan dari RGB.
